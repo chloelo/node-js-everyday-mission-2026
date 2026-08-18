@@ -15,3 +15,8 @@
 - Day 15 - Middleware 三種類型
 - Day 16 - Auth 流程整合
 - Day 17 - 認識資料表與 SELECT 選取
+- Day 18 - WHERE 篩選條件
+- Day 19 - ORDER BY 排序與 LIMIT
+- Day 20 - INSERT / UPDATE / DELETE 資料寫入
+- Day 21 - 書店後台 SQL 綜合演練
+- Day 22 - 資料表關聯：主鍵、外鍵與順著外鍵查詢

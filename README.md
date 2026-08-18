@@ -20,3 +20,8 @@
 - Day 20 - INSERT / UPDATE / DELETE 資料寫入
 - Day 21 - 書店後台 SQL 綜合演練
 - Day 22 - 資料表關聯：主鍵、外鍵與順著外鍵查詢
+- Day 23 - JOIN 將拆分的資料表關聯起來
+- Day 24 - 使用 PostgreSQL 函式將資料加工
+- Day 25 - GROUP BY 分組與聚合
+- Day 26 - 子查詢：把一段 SELECT 放進另一段 SQL
+- Day 27 - 資料庫如何跑你的查詢（EXPLAIN ANALYZE）

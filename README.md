@@ -1,0 +1,17 @@
+- Day 1 - 模組化概念、fs/promises
+- Day 2 - 單一職責原則
+- Day 3 - process.env、.env、dotenv
+- Day 4 - Node.js 內建 http 模組
+- Day 5 - formidable 與檔案上傳
+- Day 6 - 路由設計
+- Day 7 - Express 框架入門
+- Day 8 - 網址規則、req.params 與 req.query
+- Day 9 - Middleware 概念與應用
+- Day 10 - Router 拆分與模組化
+- Day 11 - CRUD 實作與資料驗證
+- Day 12 - 密碼安全與 bcrypt
+- Day 13 - JWT 概念與簽發
+- Day 14 - JWT 驗證與自訂 Middleware
+- Day 15 - Middleware 三種類型
+- Day 16 - Auth 流程整合
+- Day 17 - 認識資料表與 SELECT 選取

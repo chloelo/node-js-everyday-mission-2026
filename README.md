@@ -33,3 +33,8 @@
 - Day 33 - 使用 entity 描述一張表的結構
 - Day 34 - 設計資料表之間的關聯
 - Day 35 - 關於 ORM 的同步，以及使用 migration 來管理結構
+- Day 36 - 使用 Seeder 寫入資料，確認資料表可以使用
+- Day 37 - 看懂 API 規格書（OpenAPI 與 Swagger UI）
+- Day 38 - 後端與資料庫的連線
+- Day 39 - 專案分層（routes、controllers 與職責分工）
+- Day 40 - 用 ORM 操作資料（以 TypeORM Repository 為例）

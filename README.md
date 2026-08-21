@@ -38,3 +38,7 @@
 - Day 38 - 後端與資料庫的連線
 - Day 39 - 專案分層（routes、controllers 與職責分工）
 - Day 40 - 用 ORM 操作資料（以 TypeORM Repository 為例）
+- Day 41 - 軟刪除與資料狀態保留
+- Day 42 - 統一 API 回應與集中錯誤處理
+- Day 43 - 角色授權與資料所有權檢查
+- Day 44 - Docker 容器基礎
